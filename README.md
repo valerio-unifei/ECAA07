@@ -11,10 +11,10 @@ Objetivos:
 
 Ementa:
 - Banco de Dados Relacional
- - Visão geral do gerenciamento de banco de dados. 
- - Linguagem SQL. 
- - Projeto de banco de dados para automação. 
+  - Visão geral do gerenciamento de banco de dados. 
+  - Linguagem SQL. 
+  - Projeto de banco de dados para automação. 
 - Desenvolvimento de programas para banco de dados relacional
- - Sistema de Gerenciamento de Informações da Planta
- - Apresentar e consolidar os conceitos de PIMS
- - Familiarizar-se com as características e possíveis ganhos de projetos de PIMS
+  - Sistema de Gerenciamento de Informações da Planta
+  - Apresentar e consolidar os conceitos de PIMS
+  - Familiarizar-se com as características e possíveis ganhos de projetos de PIMS
